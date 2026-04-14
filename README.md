@@ -151,7 +151,6 @@ Output: Predicted physiotherapy exercise class
 
 ---
 
-## 📸 Demo
 
 
 
